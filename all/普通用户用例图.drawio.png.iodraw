@@ -695,11 +695,16 @@
         <mxCell id="5PhpI65oFGt1g_d6Kdf4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5PhpI65oFGt1g_d6Kdf4-3" target="5PhpI65oFGt1g_d6Kdf4-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5PhpI65oFGt1g_d6Kdf4-8" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5PhpI65oFGt1g_d6Kdf4-7">
+          <mxGeometry x="-0.2815" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5PhpI65oFGt1g_d6Kdf4-3" value="是否支付" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5PhpI65oFGt1g_d6Kdf4-4" value="打印核销码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
