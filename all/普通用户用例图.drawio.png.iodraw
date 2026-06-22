@@ -274,8 +274,8 @@
         <mxCell id="l-HMAymjcRhieDcTgXV5-26" value="商品管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="1010" y="335" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="l-HMAymjcRhieDcTgXV5-33" value="演出浏览" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="100" y="345" width="50" height="120" as="geometry" />
+        <mxCell id="l-HMAymjcRhieDcTgXV5-33" value="我的收藏" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="34" y="333" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
