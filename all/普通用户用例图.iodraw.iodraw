@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uz656Xn_t6xwZ79XywBd-1" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="10" y="400" width="60" height="95" as="geometry" />
+          <mxGeometry x="40" y="435" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uz656Xn_t6xwZ79XywBd-2" value="注册/登录" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="210" y="190" width="140" height="70" as="geometry" />
@@ -60,7 +60,7 @@
         </mxCell>
         <mxCell id="uz656Xn_t6xwZ79XywBd-16" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="uz656Xn_t6xwZ79XywBd-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="450" as="sourcePoint" />
+            <mxPoint x="70" y="460" as="sourcePoint" />
             <mxPoint x="210" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
