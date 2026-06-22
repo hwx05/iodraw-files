@@ -191,7 +191,7 @@
           <mxGeometry x="130" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-4" value="商城管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-6" value="粉丝社团" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="210" width="120" height="60" as="geometry" />
@@ -222,6 +222,9 @@
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-15" value="支付管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="290" y="290" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="l-HMAymjcRhieDcTgXV5-16" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
