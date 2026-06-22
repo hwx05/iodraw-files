@@ -253,6 +253,9 @@
         <mxCell id="l-HMAymjcRhieDcTgXV5-25" value="演出管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="940" y="290" width="50" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="l-HMAymjcRhieDcTgXV5-26" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="290" width="50" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
