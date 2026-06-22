@@ -220,8 +220,8 @@
         <mxCell id="l-HMAymjcRhieDcTgXV5-14" value="选座下单" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="380" y="300" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="l-HMAymjcRhieDcTgXV5-15" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="50" y="360" width="50" height="120" as="geometry" />
+        <mxCell id="l-HMAymjcRhieDcTgXV5-15" value="支付管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="440" y="310" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
