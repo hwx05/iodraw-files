@@ -10,6 +10,11 @@
         <mxCell id="uz656Xn_t6xwZ79XywBd-2" value="注册/登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="80" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="uz656Xn_t6xwZ79XywBd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uz656Xn_t6xwZ79XywBd-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uz656Xn_t6xwZ79XywBd-3" value="浏览演出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="190" width="140" height="70" as="geometry" />
         </mxCell>
@@ -28,7 +33,7 @@
         <mxCell id="uz656Xn_t6xwZ79XywBd-9" value="星光值任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="790" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uz656Xn_t6xwZ79XywBd-10" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.014;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="uz656Xn_t6xwZ79XywBd-2">
+        <mxCell id="uz656Xn_t6xwZ79XywBd-10" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.014;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uz656Xn_t6xwZ79XywBd-1" target="uz656Xn_t6xwZ79XywBd-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="410" as="sourcePoint" />
             <mxPoint x="440" y="360" as="targetPoint" />
