@@ -467,6 +467,9 @@
         <mxCell id="hPwc33P7YU8dd1P7WBlq-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hPwc33P7YU8dd1P7WBlq-30" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
