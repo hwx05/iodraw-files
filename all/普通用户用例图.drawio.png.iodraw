@@ -345,7 +345,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-v3E1DJrlKjMwU9vDCCB-1" value="商家" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="640" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-v3E1DJrlKjMwU9vDCCB-2" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
