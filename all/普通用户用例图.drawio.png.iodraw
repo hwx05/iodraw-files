@@ -217,7 +217,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-3" value="票务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="154" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="153" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-4" value="商城管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="210" width="120" height="60" as="geometry" />
@@ -241,16 +241,16 @@
           <mxGeometry x="-79" y="335" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-12" value="演出浏览" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="90" y="335" width="50" height="120" as="geometry" />
+          <mxGeometry x="89" y="335" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-13" value="场馆座位" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="160" y="335" width="50" height="120" as="geometry" />
+          <mxGeometry x="159" y="335" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-14" value="选座下单" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="224" y="335" width="50" height="120" as="geometry" />
+          <mxGeometry x="223" y="335" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-15" value="支付管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="290" y="335" width="50" height="120" as="geometry" />
+          <mxGeometry x="289" y="335" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-16" value="商品浏览" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="360" y="335" width="50" height="120" as="geometry" />
