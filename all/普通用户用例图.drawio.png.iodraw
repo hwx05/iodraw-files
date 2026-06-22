@@ -200,7 +200,7 @@
           <mxGeometry x="820" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-8" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-70" y="320" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
