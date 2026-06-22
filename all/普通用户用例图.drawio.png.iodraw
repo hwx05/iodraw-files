@@ -648,6 +648,9 @@
         <mxCell id="Z9I7KL6uf1l5KU_y1DDL-3" value="签到打卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z9I7KL6uf1l5KU_y1DDL-4" value="充值兑换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
