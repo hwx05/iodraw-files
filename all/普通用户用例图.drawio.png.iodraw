@@ -249,6 +249,15 @@
         <mxCell id="l-HMAymjcRhieDcTgXV5-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-HMAymjcRhieDcTgXV5-7" target="l-HMAymjcRhieDcTgXV5-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l-HMAymjcRhieDcTgXV5-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-HMAymjcRhieDcTgXV5-7" target="l-HMAymjcRhieDcTgXV5-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-HMAymjcRhieDcTgXV5-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-HMAymjcRhieDcTgXV5-7" target="l-HMAymjcRhieDcTgXV5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-HMAymjcRhieDcTgXV5-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-HMAymjcRhieDcTgXV5-7" target="l-HMAymjcRhieDcTgXV5-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-7" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="971" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -307,7 +316,7 @@
           <mxGeometry x="1021" y="335" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-26" value="商品管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="1091" y="335" width="50" height="120" as="geometry" />
+          <mxGeometry x="1100" y="333" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-33" value="我的收藏" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="-15" y="333" width="50" height="120" as="geometry" />
