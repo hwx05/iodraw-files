@@ -280,13 +280,13 @@
           <mxGeometry x="-263" y="331" width="50" height="159" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-9" value="个人信息" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-193" y="331" width="50" height="120" as="geometry" />
+          <mxGeometry x="-193" y="331" width="50" height="159" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-10" value="虚拟币管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-107" y="333" width="50" height="120" as="geometry" />
+          <mxGeometry x="-107" y="333" width="50" height="157" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-11" value="星光值管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-21" y="333" width="50" height="120" as="geometry" />
+          <mxGeometry x="-21" y="333" width="50" height="157" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-12" value="演出浏览" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="113" y="331" width="50" height="120" as="geometry" />
@@ -334,7 +334,7 @@
           <mxGeometry x="1089" y="328" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-33" value="我的收藏" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="43" y="331" width="50" height="120" as="geometry" />
+          <mxGeometry x="43" y="331" width="50" height="159" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
