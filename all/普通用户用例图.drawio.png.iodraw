@@ -228,7 +228,7 @@
           <mxGeometry x="-90" y="335" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-11" value="星光值管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="335" width="50" height="120" as="geometry" />
+          <mxGeometry x="-11" y="335" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-12" value="演出浏览" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="90" y="335" width="50" height="120" as="geometry" />
@@ -276,7 +276,7 @@
           <mxGeometry x="1010" y="335" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-33" value="我的收藏" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="34" y="333" width="50" height="120" as="geometry" />
+          <mxGeometry x="53" y="333" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
