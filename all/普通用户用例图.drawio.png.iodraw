@@ -198,6 +198,9 @@
         <mxCell id="l-HMAymjcRhieDcTgXV5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-HMAymjcRhieDcTgXV5-2" target="l-HMAymjcRhieDcTgXV5-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="l-HMAymjcRhieDcTgXV5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-HMAymjcRhieDcTgXV5-2" target="l-HMAymjcRhieDcTgXV5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-2" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-168" y="190" width="120" height="60" as="geometry" />
         </mxCell>
@@ -220,10 +223,10 @@
           <mxGeometry x="-219" y="333" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-10" value="虚拟币管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="-137" y="335" width="50" height="120" as="geometry" />
+          <mxGeometry x="-133" y="335" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-11" value="星光值管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="-58" y="335" width="50" height="120" as="geometry" />
+          <mxGeometry x="-47" y="335" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-12" value="演出浏览" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="90" y="335" width="50" height="120" as="geometry" />
@@ -271,7 +274,7 @@
           <mxGeometry x="1010" y="335" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-33" value="我的收藏" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="6" y="333" width="50" height="120" as="geometry" />
+          <mxGeometry x="17" y="333" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
