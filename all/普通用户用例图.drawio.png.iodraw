@@ -212,16 +212,16 @@
           <mxGeometry x="160" y="290" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-12" value="演出浏览" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="260" y="290" width="50" height="120" as="geometry" />
+          <mxGeometry x="230" y="290" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-13" value="场馆座位" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="320" y="290" width="50" height="120" as="geometry" />
+          <mxGeometry x="300" y="290" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-14" value="选座下单" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="380" y="300" width="50" height="120" as="geometry" />
+          <mxGeometry x="364" y="290" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-15" value="支付管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="440" y="310" width="50" height="120" as="geometry" />
+          <mxGeometry x="430" y="290" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
