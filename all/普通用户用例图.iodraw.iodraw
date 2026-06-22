@@ -8,10 +8,10 @@
           <mxGeometry x="40" y="435" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uz656Xn_t6xwZ79XywBd-2" value="注册/登录" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="210" y="80" width="140" height="70" as="geometry" />
+          <mxGeometry x="210" y="190" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uz656Xn_t6xwZ79XywBd-3" value="浏览演出" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="210" y="190" width="140" height="70" as="geometry" />
+          <mxGeometry x="210" y="270" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uz656Xn_t6xwZ79XywBd-4" value="购票/退票" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="210" y="350" width="140" height="70" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="210" y="430" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uz656Xn_t6xwZ79XywBd-6" value="加入粉丝团" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="210" y="550" width="140" height="70" as="geometry" />
+          <mxGeometry x="210" y="520" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uz656Xn_t6xwZ79XywBd-7" value="发帖评论" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="210" y="670" width="140" height="70" as="geometry" />
