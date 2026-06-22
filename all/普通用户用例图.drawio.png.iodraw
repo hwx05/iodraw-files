@@ -246,8 +246,11 @@
         <mxCell id="l-HMAymjcRhieDcTgXV5-6" value="粉丝社团" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="689" y="188" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l-HMAymjcRhieDcTgXV5-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-HMAymjcRhieDcTgXV5-7" target="l-HMAymjcRhieDcTgXV5-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-7" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="901" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="971" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-HMAymjcRhieDcTgXV5-8" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="-321" y="333" width="50" height="120" as="geometry" />
