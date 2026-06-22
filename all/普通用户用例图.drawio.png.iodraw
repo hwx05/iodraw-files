@@ -578,10 +578,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Grr9_adNslwBC0MvHEH9-19" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Grr9_adNslwBC0MvHEH9-19" value="6.返回JWT Token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="426" as="sourcePoint" />
-            <mxPoint x="330" y="426" as="targetPoint" />
+            <mxPoint x="490" y="509" as="sourcePoint" />
+            <mxPoint x="330" y="509" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Grr9_adNslwBC0MvHEH9-20" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="550" as="sourcePoint" />
+            <mxPoint x="240" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
