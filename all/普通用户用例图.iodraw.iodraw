@@ -19,8 +19,11 @@
         <mxCell id="uz656Xn_t6xwZ79XywBd-5" value="商城购物" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="430" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uz656Xn_t6xwZ79XywBd-6" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uz656Xn_t6xwZ79XywBd-6" value="加入粉丝团" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="550" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uz656Xn_t6xwZ79XywBd-7" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="670" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
