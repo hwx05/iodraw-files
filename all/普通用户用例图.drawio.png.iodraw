@@ -345,7 +345,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-v3E1DJrlKjMwU9vDCCB-1" value="商家" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="100" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-v3E1DJrlKjMwU9vDCCB-2" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="320" y="110" width="120" height="60" as="geometry" />
@@ -360,7 +360,7 @@
           <mxGeometry x="630" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hPwc33P7YU8dd1P7WBlq-4" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hPwc33P7YU8dd1P7WBlq-5" value="买卖" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="630" y="525" width="120" height="60" as="geometry" />
