@@ -354,7 +354,7 @@
           <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hPwc33P7YU8dd1P7WBlq-2" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hPwc33P7YU8dd1P7WBlq-3" value="粉丝团团长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="110" width="120" height="60" as="geometry" />
@@ -402,6 +402,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="360" as="sourcePoint" />
             <mxPoint x="690" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hPwc33P7YU8dd1P7WBlq-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hPwc33P7YU8dd1P7WBlq-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="500" as="sourcePoint" />
+            <mxPoint x="690" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
