@@ -607,6 +607,12 @@
         <mxCell id="yEwBmLF8FTg_QoVbdVfR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yEwBmLF8FTg_QoVbdVfR-1" target="yEwBmLF8FTg_QoVbdVfR-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yEwBmLF8FTg_QoVbdVfR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yEwBmLF8FTg_QoVbdVfR-1" target="yEwBmLF8FTg_QoVbdVfR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yEwBmLF8FTg_QoVbdVfR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yEwBmLF8FTg_QoVbdVfR-1" target="yEwBmLF8FTg_QoVbdVfR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yEwBmLF8FTg_QoVbdVfR-1" value="粉丝团模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="110" width="120" height="60" as="geometry" />
         </mxCell>
