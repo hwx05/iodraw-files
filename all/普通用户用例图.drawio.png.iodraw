@@ -28,12 +28,6 @@
         <mxCell id="uz656Xn_t6xwZ79XywBd-9" value="星光值任务" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="210" y="700" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uz656Xn_t6xwZ79XywBd-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=宋体;fontStyle=0" edge="1" parent="1" source="uz656Xn_t6xwZ79XywBd-1" target="uz656Xn_t6xwZ79XywBd-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="460" as="sourcePoint" />
-            <mxPoint x="440" y="860" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Yc0h3ZAwedhUEGfpilm--2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="450" as="sourcePoint" />
@@ -64,7 +58,7 @@
             <mxPoint x="210" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yc0h3ZAwedhUEGfpilm--7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Yc0h3ZAwedhUEGfpilm--7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uz656Xn_t6xwZ79XywBd-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="690" as="sourcePoint" />
             <mxPoint x="210" y="640" as="targetPoint" />
