@@ -25,6 +25,9 @@
         <mxCell id="uz656Xn_t6xwZ79XywBd-7" value="发帖评论" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="670" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="uz656Xn_t6xwZ79XywBd-9" value="星光值任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="790" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
