@@ -10,6 +10,12 @@
         <mxCell id="uz656Xn_t6xwZ79XywBd-2" value="注册/登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="80" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="uz656Xn_t6xwZ79XywBd-3" value="浏览演出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uz656Xn_t6xwZ79XywBd-4" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
