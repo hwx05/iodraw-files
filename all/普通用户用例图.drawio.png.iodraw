@@ -711,14 +711,9 @@
         <mxCell id="5PhpI65oFGt1g_d6Kdf4-4" value="打印核销码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5PhpI65oFGt1g_d6Kdf4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5PhpI65oFGt1g_d6Kdf4-10" target="5PhpI65oFGt1g_d6Kdf4-2">
+        <mxCell id="5PhpI65oFGt1g_d6Kdf4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5PhpI65oFGt1g_d6Kdf4-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5PhpI65oFGt1g_d6Kdf4-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5PhpI65oFGt1g_d6Kdf4-12">
-          <mxGeometry x="-0.5573" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="430" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5PhpI65oFGt1g_d6Kdf4-10" value="是否超时" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
