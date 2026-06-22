@@ -642,6 +642,12 @@
         <mxCell id="Z9I7KL6uf1l5KU_y1DDL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9I7KL6uf1l5KU_y1DDL-1" target="Z9I7KL6uf1l5KU_y1DDL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Z9I7KL6uf1l5KU_y1DDL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9I7KL6uf1l5KU_y1DDL-1" target="Z9I7KL6uf1l5KU_y1DDL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9I7KL6uf1l5KU_y1DDL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9I7KL6uf1l5KU_y1DDL-1" target="Z9I7KL6uf1l5KU_y1DDL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z9I7KL6uf1l5KU_y1DDL-1" value="星光值模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="150" width="120" height="60" as="geometry" />
         </mxCell>
