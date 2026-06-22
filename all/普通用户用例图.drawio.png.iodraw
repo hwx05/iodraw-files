@@ -238,8 +238,11 @@
         <mxCell id="l-HMAymjcRhieDcTgXV5-20" value="帖子发布" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="630" y="290" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="l-HMAymjcRhieDcTgXV5-21" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="110" y="420" width="50" height="120" as="geometry" />
+        <mxCell id="l-HMAymjcRhieDcTgXV5-21" value="评论点赞" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="690" y="290" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="l-HMAymjcRhieDcTgXV5-22" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
