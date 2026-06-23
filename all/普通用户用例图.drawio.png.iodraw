@@ -1226,6 +1226,9 @@
         <mxCell id="GWnU8JVwjuJSQrT8WBK2-6" value="用户支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GWnU8JVwjuJSQrT8WBK2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GWnU8JVwjuJSQrT8WBK2-7" target="GWnU8JVwjuJSQrT8WBK2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GWnU8JVwjuJSQrT8WBK2-7" value="商家是否确定发货" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="343" y="430" width="154" height="80" as="geometry" />
         </mxCell>
