@@ -1470,7 +1470,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hxW-QWBfVTknMjkGc7D4-13" value="6.跳转支付页面" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
+        <mxCell id="hxW-QWBfVTknMjkGc7D4-13" value="6.展示发布结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry x="-0.0026" relative="1" as="geometry">
             <mxPoint x="280" y="372" as="sourcePoint" />
             <mxPoint x="89.5" y="372" as="targetPoint" />
