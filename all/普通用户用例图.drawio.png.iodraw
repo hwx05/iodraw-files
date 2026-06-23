@@ -612,7 +612,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ozCA8hXLLezc_80kfuMX" name="第 6 页">
-    <mxGraphModel dx="1611" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1236" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -915,6 +915,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="qIBKat9J9E0ntXUlD4DI-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="80" y="150" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WFoEZ60R2A5rCNE6JAYB-1" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="100" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
