@@ -1206,10 +1206,13 @@
           <mxGeometry x="370" y="110" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GWnU8JVwjuJSQrT8WBK2-2" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="450" width="100" height="60" as="geometry" />
+          <mxGeometry x="370" y="530" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GWnU8JVwjuJSQrT8WBK2-3" value="创建订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GWnU8JVwjuJSQrT8WBK2-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
