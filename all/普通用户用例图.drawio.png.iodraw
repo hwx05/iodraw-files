@@ -1320,7 +1320,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4vmVzMLz8qfl1m431S8c-10" value="2.发送座位请求" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1" source="4vmVzMLz8qfl1m431S8c-3" target="4vmVzMLz8qfl1m431S8c-5">
+        <mxCell id="4vmVzMLz8qfl1m431S8c-10" value="2.发送充值请求" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1" source="4vmVzMLz8qfl1m431S8c-3" target="4vmVzMLz8qfl1m431S8c-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="305" as="sourcePoint" />
             <mxPoint as="offset" />
