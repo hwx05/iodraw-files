@@ -1077,7 +1077,7 @@
         <mxCell id="T1uXYbyR3ekCASk_cQVo-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" vertex="1" parent="T1uXYbyR3ekCASk_cQVo-4">
           <mxGeometry x="50" y="139" width="10" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="T1uXYbyR3ekCASk_cQVo-6" value="1.选择目标座位" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" target="T1uXYbyR3ekCASk_cQVo-5" parent="1" source="T1uXYbyR3ekCASk_cQVo-1">
+        <mxCell id="T1uXYbyR3ekCASk_cQVo-6" value="1.选择目标座位" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" target="T1uXYbyR3ekCASk_cQVo-5" parent="1" source="T1uXYbyR3ekCASk_cQVo-1">
           <mxGeometry x="-0.0026" relative="1" as="geometry">
             <mxPoint x="210" y="295" as="sourcePoint" />
             <mxPoint as="offset" />
