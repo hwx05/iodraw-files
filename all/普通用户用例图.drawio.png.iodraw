@@ -1011,6 +1011,9 @@
         <mxCell id="Z0r9_wFsNU94gpmBRqEe-8" value="生成核销码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z0r9_wFsNU94gpmBRqEe-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
