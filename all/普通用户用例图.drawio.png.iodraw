@@ -959,7 +959,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WFoEZ60R2A5rCNE6JAYB-11" value="7.下发最新点赞状态与数量" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
+        <mxCell id="WFoEZ60R2A5rCNE6JAYB-11" value="7.下发最新状态" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry x="0.0031" relative="1" as="geometry">
             <mxPoint x="469.5" y="349" as="sourcePoint" />
             <mxPoint x="310" y="349" as="targetPoint" />
