@@ -1186,8 +1186,8 @@
         </mxCell>
         <mxCell id="2O52lK6QXyby3EB6204T-15" value="7.进行支付" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="540" as="sourcePoint" />
-            <mxPoint x="480" y="540" as="targetPoint" />
+            <mxPoint x="610" y="510" as="sourcePoint" />
+            <mxPoint x="470" y="510" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
