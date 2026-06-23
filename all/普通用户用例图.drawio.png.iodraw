@@ -1218,13 +1218,16 @@
           <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GWnU8JVwjuJSQrT8WBK2-5" value="物流信息更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GWnU8JVwjuJSQrT8WBK2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GWnU8JVwjuJSQrT8WBK2-6" target="GWnU8JVwjuJSQrT8WBK2-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GWnU8JVwjuJSQrT8WBK2-6" value="用户支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GWnU8JVwjuJSQrT8WBK2-7" value="商家是否确定发货" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337" y="430" width="154" height="80" as="geometry" />
+          <mxGeometry x="343" y="430" width="154" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
