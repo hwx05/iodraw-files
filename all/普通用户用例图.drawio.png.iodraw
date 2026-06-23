@@ -1258,7 +1258,7 @@
         </mxCell>
         <mxCell id="zqkhyOW8WgwL-6bVfuTi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zqkhyOW8WgwL-6bVfuTi-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="200" as="targetPoint" />
+            <mxPoint x="710" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zqkhyOW8WgwL-6bVfuTi-10" value="提示打榜失败" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
