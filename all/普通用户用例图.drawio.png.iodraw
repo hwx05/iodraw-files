@@ -1377,7 +1377,7 @@
             <mxPoint x="390" y="391" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-7" value="打榜值是否超过拥有值" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-7" value="是否充值成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="277.5" y="290" width="225" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-yKBGy9N0OV-hrJUO3gy-8" value="显示打榜成功" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
