@@ -866,7 +866,7 @@
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="TVFcoYkFXELrW5a5m9Gc-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="390" y="391" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-8" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TVFcoYkFXELrW5a5m9Gc-7">
@@ -875,17 +875,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-2" value="是否已经认证成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="350" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-3" value="显示认证成功相关信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="440" width="150" height="60" as="geometry" />
+          <mxGeometry x="315" y="451" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-4" value="填写个人信息进行认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="440" width="140" height="60" as="geometry" />
+          <mxGeometry x="500" y="451" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.594;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TVFcoYkFXELrW5a5m9Gc-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="340" as="sourcePoint" />
+            <mxPoint x="430" y="351" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-10" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TVFcoYkFXELrW5a5m9Gc-9">
