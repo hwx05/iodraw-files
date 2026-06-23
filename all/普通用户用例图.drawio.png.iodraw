@@ -1522,9 +1522,10 @@
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-10" value="正常发布" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="501" y="442" width="109" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jcnwFYWRtV8w7eZFf-b9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.594;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="jcnwFYWRtV8w7eZFf-b9-7" target="jcnwFYWRtV8w7eZFf-b9-10">
+        <mxCell id="jcnwFYWRtV8w7eZFf-b9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="jcnwFYWRtV8w7eZFf-b9-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="351" as="sourcePoint" />
+            <mxPoint x="556" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="jcnwFYWRtV8w7eZFf-b9-8" target="jcnwFYWRtV8w7eZFf-b9-3">
