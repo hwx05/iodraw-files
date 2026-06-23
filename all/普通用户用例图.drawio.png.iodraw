@@ -1156,10 +1156,11 @@
         <mxCell id="2O52lK6QXyby3EB6204T-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" vertex="1" parent="2O52lK6QXyby3EB6204T-6">
           <mxGeometry x="50" y="80" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2O52lK6QXyby3EB6204T-9" value="1.选择目标商品" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-1" target="2O52lK6QXyby3EB6204T-3">
+        <mxCell id="2O52lK6QXyby3EB6204T-9" value="1.选择目标商品" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry x="-0.0026" relative="1" as="geometry">
-            <mxPoint x="210" y="295" as="sourcePoint" />
+            <mxPoint x="89.5" y="305" as="sourcePoint" />
             <mxPoint as="offset" />
+            <mxPoint x="280" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2O52lK6QXyby3EB6204T-10" value="2.发送购物请求" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-3" target="2O52lK6QXyby3EB6204T-5">
