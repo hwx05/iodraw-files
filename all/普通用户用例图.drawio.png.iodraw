@@ -1030,6 +1030,11 @@
         <mxCell id="Z0r9_wFsNU94gpmBRqEe-8" value="生成核销码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z0r9_wFsNU94gpmBRqEe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0r9_wFsNU94gpmBRqEe-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Z0r9_wFsNU94gpmBRqEe-10" value="释放座位锁定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="670" width="120" height="60" as="geometry" />
         </mxCell>
