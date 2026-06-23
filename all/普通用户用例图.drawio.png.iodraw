@@ -875,7 +875,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-2" value="是否已经认证成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="270" width="205" height="160" as="geometry" />
+          <mxGeometry x="335" y="290" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-3" value="显示认证成功相关信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="315" y="495" width="150" height="60" as="geometry" />
