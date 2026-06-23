@@ -1107,7 +1107,7 @@
             <mxPoint x="440" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T1uXYbyR3ekCASk_cQVo-13" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="T1uXYbyR3ekCASk_cQVo-12" parent="1">
+        <mxCell id="T1uXYbyR3ekCASk_cQVo-13" value="5.更新该锁记录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="T1uXYbyR3ekCASk_cQVo-12" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="367" as="sourcePoint" />
           </mxGeometry>
