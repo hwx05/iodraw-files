@@ -965,7 +965,7 @@
             <mxPoint x="310" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WFoEZ60R2A5rCNE6JAYB-12" value="6.渲染页面" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="WFoEZ60R2A5rCNE6JAYB-12" value="8.刷新页面展示最新点赞信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="415" as="sourcePoint" />
             <mxPoint x="129.5" y="415" as="targetPoint" />
