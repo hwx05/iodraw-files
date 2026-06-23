@@ -1063,10 +1063,18 @@
         <mxCell id="T1uXYbyR3ekCASk_cQVo-2" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="100" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="T1uXYbyR3ekCASk_cQVo-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="T1uXYbyR3ekCASk_cQVo-2">
+          <mxGeometry x="50" y="60" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T1uXYbyR3ekCASk_cQVo-6" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="T1uXYbyR3ekCASk_cQVo-5" parent="T1uXYbyR3ekCASk_cQVo-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="65" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-3" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="380" y="230" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="T1uXYbyR3ekCASk_cQVo-4" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="T1uXYbyR3ekCASk_cQVo-4" value="redis数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="580" y="230" width="100" height="300" as="geometry" />
         </mxCell>
       </root>
