@@ -1193,8 +1193,8 @@
         </mxCell>
         <mxCell id="2O52lK6QXyby3EB6204T-16" value="8.提示尽快支付" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry x="-0.0026" relative="1" as="geometry">
-            <mxPoint x="280" y="511" as="sourcePoint" />
-            <mxPoint x="89.5" y="511" as="targetPoint" />
+            <mxPoint x="280" y="550" as="sourcePoint" />
+            <mxPoint x="89.5" y="550" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1237,7 +1237,7 @@
             <mxPoint x="610" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2O52lK6QXyby3EB6204T-29" value="12.返回支持成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="2O52lK6QXyby3EB6204T-29" value="12.返回支付成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="520" as="sourcePoint" />
             <mxPoint x="290" y="520" as="targetPoint" />
