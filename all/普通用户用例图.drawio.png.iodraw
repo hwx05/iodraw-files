@@ -1369,8 +1369,8 @@
         <mxCell id="-yKBGy9N0OV-hrJUO3gy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="-yKBGy9N0OV-hrJUO3gy-5" target="-yKBGy9N0OV-hrJUO3gy-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-5" value="选择金额进行打榜" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="281" y="180" width="220" height="60" as="geometry" />
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-5" value="选择金额进行充值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-yKBGy9N0OV-hrJUO3gy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;" edge="1" parent="1" target="-yKBGy9N0OV-hrJUO3gy-8">
           <mxGeometry relative="1" as="geometry">
