@@ -882,7 +882,11 @@
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TVFcoYkFXELrW5a5m9Gc-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="612.6666870117188" as="targetPoint" />
+            <mxPoint x="390" y="562" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="562" />
+              <mxPoint x="441" y="562" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-4" value="填写个人信息进行认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
