@@ -1243,7 +1243,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zqkhyOW8WgwL-6bVfuTi-5" value="选择艺人、打榜值进行打榜" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="180" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqkhyOW8WgwL-6bVfuTi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;" edge="1" parent="1" target="zqkhyOW8WgwL-6bVfuTi-8">
           <mxGeometry relative="1" as="geometry">
