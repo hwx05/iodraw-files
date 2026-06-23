@@ -1311,9 +1311,6 @@
         <mxCell id="4vmVzMLz8qfl1m431S8c-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" vertex="1" parent="4vmVzMLz8qfl1m431S8c-6">
           <mxGeometry x="50" y="80" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4vmVzMLz8qfl1m431S8c-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" vertex="1" parent="4vmVzMLz8qfl1m431S8c-6">
-          <mxGeometry x="50" y="139" width="10" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="4vmVzMLz8qfl1m431S8c-9" value="1.选择充值的金额" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1" source="4vmVzMLz8qfl1m431S8c-1" target="4vmVzMLz8qfl1m431S8c-3">
           <mxGeometry x="-0.0026" relative="1" as="geometry">
             <mxPoint x="210" y="295" as="sourcePoint" />
@@ -1335,16 +1332,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="342" as="targetPoint" />
             <mxPoint x="610" y="342" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4vmVzMLz8qfl1m431S8c-13" value="5.更新该锁记录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" target="4vmVzMLz8qfl1m431S8c-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="374" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4vmVzMLz8qfl1m431S8c-14" value="6.返回数据库更新成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="4vmVzMLz8qfl1m431S8c-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4vmVzMLz8qfl1m431S8c-15" value="7.座位锁定成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
