@@ -1159,7 +1159,7 @@
         <mxCell id="2O52lK6QXyby3EB6204T-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" vertex="1" parent="2O52lK6QXyby3EB6204T-6">
           <mxGeometry x="50" y="139" width="10" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="2O52lK6QXyby3EB6204T-9" value="1.选择目标座位" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-1" target="2O52lK6QXyby3EB6204T-3">
+        <mxCell id="2O52lK6QXyby3EB6204T-9" value="1.选择目标商品" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-1" target="2O52lK6QXyby3EB6204T-3">
           <mxGeometry x="-0.0026" relative="1" as="geometry">
             <mxPoint x="210" y="295" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -1168,6 +1168,7 @@
         <mxCell id="2O52lK6QXyby3EB6204T-10" value="2.发送座位请求" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-3" target="2O52lK6QXyby3EB6204T-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="305" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2O52lK6QXyby3EB6204T-11" value="3.执行分布锁" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-5" target="2O52lK6QXyby3EB6204T-7">
