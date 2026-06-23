@@ -1171,7 +1171,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2O52lK6QXyby3EB6204T-11" value="3.执行分布锁" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-5" target="2O52lK6QXyby3EB6204T-7">
+        <mxCell id="2O52lK6QXyby3EB6204T-11" value="3.判断是否可以购买" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-5" target="2O52lK6QXyby3EB6204T-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="315" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -1181,6 +1181,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="342" as="targetPoint" />
             <mxPoint x="610" y="342" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2O52lK6QXyby3EB6204T-13" value="5.更新该锁记录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" target="2O52lK6QXyby3EB6204T-8">
