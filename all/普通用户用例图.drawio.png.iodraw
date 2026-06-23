@@ -1438,19 +1438,19 @@
         <mxCell id="hxW-QWBfVTknMjkGc7D4-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" vertex="1" parent="hxW-QWBfVTknMjkGc7D4-6">
           <mxGeometry x="50" y="80" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hxW-QWBfVTknMjkGc7D4-8" value="1.选择目标商品" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1" source="hxW-QWBfVTknMjkGc7D4-1" target="hxW-QWBfVTknMjkGc7D4-3">
-          <mxGeometry x="0.2651" y="15" relative="1" as="geometry">
+        <mxCell id="hxW-QWBfVTknMjkGc7D4-8" value="1.编写帖子内容" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1" source="hxW-QWBfVTknMjkGc7D4-1" target="hxW-QWBfVTknMjkGc7D4-3">
+          <mxGeometry x="-0.0026" relative="1" as="geometry">
             <mxPoint x="210" y="295" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hxW-QWBfVTknMjkGc7D4-9" value="2.发送购物请求" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1" source="hxW-QWBfVTknMjkGc7D4-3" target="hxW-QWBfVTknMjkGc7D4-5">
+        <mxCell id="hxW-QWBfVTknMjkGc7D4-9" value="2.发送发帖请求" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1" source="hxW-QWBfVTknMjkGc7D4-3" target="hxW-QWBfVTknMjkGc7D4-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="305" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hxW-QWBfVTknMjkGc7D4-10" value="3.创建支付单据" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="hxW-QWBfVTknMjkGc7D4-5" target="hxW-QWBfVTknMjkGc7D4-7">
+        <mxCell id="hxW-QWBfVTknMjkGc7D4-10" value="3.进行审核" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="hxW-QWBfVTknMjkGc7D4-5" target="hxW-QWBfVTknMjkGc7D4-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="315" as="sourcePoint" />
             <mxPoint as="offset" />
