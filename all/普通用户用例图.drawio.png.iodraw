@@ -1013,18 +1013,8 @@
             <mxPoint x="390" y="633" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z0r9_wFsNU94gpmBRqEe-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=22;" vertex="1" connectable="0" parent="Z0r9_wFsNU94gpmBRqEe-13">
-          <mxGeometry x="-0.175" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Z0r9_wFsNU94gpmBRqEe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=22;" edge="1" parent="1" source="Z0r9_wFsNU94gpmBRqEe-7" target="Z0r9_wFsNU94gpmBRqEe-10">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Z0r9_wFsNU94gpmBRqEe-17" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=22;" vertex="1" connectable="0" parent="Z0r9_wFsNU94gpmBRqEe-15">
-          <mxGeometry x="-0.4897" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Z0r9_wFsNU94gpmBRqEe-7" value="是否支付成功" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="305" y="490" width="170" height="100" as="geometry" />
@@ -1156,7 +1146,7 @@
         <mxCell id="2O52lK6QXyby3EB6204T-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" vertex="1" parent="2O52lK6QXyby3EB6204T-6">
           <mxGeometry x="50" y="80" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2O52lK6QXyby3EB6204T-9" value="1.选择目标商品" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-1" target="2O52lK6QXyby3EB6204T-3">
+        <mxCell id="2O52lK6QXyby3EB6204T-9" value="1.选择目标商品" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-1" target="2O52lK6QXyby3EB6204T-3">
           <mxGeometry x="-0.0026" relative="1" as="geometry">
             <mxPoint x="210" y="295" as="sourcePoint" />
             <mxPoint as="offset" />
