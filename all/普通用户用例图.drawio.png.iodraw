@@ -1497,7 +1497,7 @@
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="jcnwFYWRtV8w7eZFf-b9-5" target="jcnwFYWRtV8w7eZFf-b9-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jcnwFYWRtV8w7eZFf-b9-5" value="选择艺人、打榜值进行打榜" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="jcnwFYWRtV8w7eZFf-b9-5" value="用户提交帖子/评论/评价" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;" edge="1" parent="1" target="jcnwFYWRtV8w7eZFf-b9-8">
@@ -1505,7 +1505,7 @@
             <mxPoint x="390" y="391" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jcnwFYWRtV8w7eZFf-b9-7" value="打榜值是否超过拥有值" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="jcnwFYWRtV8w7eZFf-b9-7" value="是否命中敏感词" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="277.5" y="290" width="225" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-8" value="显示打榜成功" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
