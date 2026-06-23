@@ -1221,9 +1221,9 @@
             <mxPoint x="-20" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2O52lK6QXyby3EB6204T-19" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="2O52lK6QXyby3EB6204T-18" parent="1" source="2O52lK6QXyby3EB6204T-4">
+        <mxCell id="2O52lK6QXyby3EB6204T-19" value="5.调用" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="2O52lK6QXyby3EB6204T-18" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
