@@ -1202,6 +1202,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GWnU8JVwjuJSQrT8WBK2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GWnU8JVwjuJSQrT8WBK2-1" target="GWnU8JVwjuJSQrT8WBK2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GWnU8JVwjuJSQrT8WBK2-1" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="370" y="110" width="100" height="60" as="geometry" />
         </mxCell>
@@ -1209,7 +1212,7 @@
           <mxGeometry x="364" y="680" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GWnU8JVwjuJSQrT8WBK2-3" value="创建订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GWnU8JVwjuJSQrT8WBK2-5" value="物流信息更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="550" width="120" height="60" as="geometry" />
