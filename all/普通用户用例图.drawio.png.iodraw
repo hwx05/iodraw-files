@@ -1226,7 +1226,7 @@
             <mxPoint x="200" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2O52lK6QXyby3EB6204T-26" value="9." style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="2O52lK6QXyby3EB6204T-25" parent="1" source="2O52lK6QXyby3EB6204T-17">
+        <mxCell id="2O52lK6QXyby3EB6204T-26" value="9.支付成功异步回调" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="2O52lK6QXyby3EB6204T-25" parent="1" source="2O52lK6QXyby3EB6204T-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="465" as="sourcePoint" />
           </mxGeometry>
