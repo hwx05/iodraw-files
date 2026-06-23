@@ -1498,7 +1498,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-5" value="用户提交帖子/评论/评价" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="280" y="180" width="220" height="60" as="geometry" />
+          <mxGeometry x="290" y="180" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;" edge="1" parent="1" target="jcnwFYWRtV8w7eZFf-b9-8">
           <mxGeometry relative="1" as="geometry">
@@ -1506,7 +1506,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-7" value="是否命中敏感词" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="330" y="290" width="172.5" height="100" as="geometry" />
+          <mxGeometry x="311.88" y="290" width="156.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-8" value="发布被拒" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="340" y="442" width="100" height="60" as="geometry" />
