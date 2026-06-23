@@ -1028,22 +1028,22 @@
           <mxGeometry x="340" y="490" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Z0r9_wFsNU94gpmBRqEe-8" value="生成核销码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="658" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z0r9_wFsNU94gpmBRqEe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0r9_wFsNU94gpmBRqEe-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="770" as="targetPoint" />
+            <mxPoint x="390" y="758" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="770" />
-              <mxPoint x="541" y="770" />
+              <mxPoint x="600" y="758" />
+              <mxPoint x="541" y="758" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Z0r9_wFsNU94gpmBRqEe-10" value="释放座位锁定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="658" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z0r9_wFsNU94gpmBRqEe-11" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="800" width="100" height="60" as="geometry" />
+          <mxGeometry x="340" y="788" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z0r9_wFsNU94gpmBRqEe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z0r9_wFsNU94gpmBRqEe-8" target="Z0r9_wFsNU94gpmBRqEe-11">
           <mxGeometry relative="1" as="geometry" />
