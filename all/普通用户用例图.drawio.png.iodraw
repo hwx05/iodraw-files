@@ -1119,10 +1119,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T1uXYbyR3ekCASk_cQVo-16" value="8.提示座位锁定成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="T1uXYbyR3ekCASk_cQVo-1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="T1uXYbyR3ekCASk_cQVo-16" value="8.提示尽快支付" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="T1uXYbyR3ekCASk_cQVo-1">
+          <mxGeometry x="-0.0026" relative="1" as="geometry">
             <mxPoint x="280" y="430" as="sourcePoint" />
             <mxPoint x="200" y="430" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
