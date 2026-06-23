@@ -855,6 +855,9 @@
         <mxCell id="ay7Kd4sFGkCQAelHc9a5-2" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="630" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TVFcoYkFXELrW5a5m9Gc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
