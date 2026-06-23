@@ -951,8 +951,8 @@
         </mxCell>
         <mxCell id="WFoEZ60R2A5rCNE6JAYB-10" value="4.返回查询结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="400" as="targetPoint" />
-            <mxPoint x="650" y="400" as="sourcePoint" />
+            <mxPoint x="480" y="280" as="targetPoint" />
+            <mxPoint x="650" y="280" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
