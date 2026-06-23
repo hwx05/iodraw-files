@@ -1463,7 +1463,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hxW-QWBfVTknMjkGc7D4-12" value="5.下发支付链接" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
+        <mxCell id="hxW-QWBfVTknMjkGc7D4-12" value="5.返回发布结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="362" as="sourcePoint" />
             <mxPoint x="290" y="362" as="targetPoint" />
