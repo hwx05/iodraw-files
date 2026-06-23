@@ -797,6 +797,15 @@
         <mxCell id="5PhpI65oFGt1g_d6Kdf4-4" value="打印核销码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="370" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JlAzSMAE2VSRRHsPjvTG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5PhpI65oFGt1g_d6Kdf4-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="589" y="639" />
+              <mxPoint x="541" y="639" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5PhpI65oFGt1g_d6Kdf4-16" value="订单被取消" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="529" y="498" width="120" height="60" as="geometry" />
         </mxCell>
