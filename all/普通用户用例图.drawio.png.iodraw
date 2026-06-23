@@ -1231,7 +1231,7 @@
             <mxPoint x="470" y="465" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2O52lK6QXyby3EB6204T-28" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-25">
+        <mxCell id="2O52lK6QXyby3EB6204T-28" value="10.更新订单状态为已支付" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="510" as="sourcePoint" />
             <mxPoint x="610" y="480" as="targetPoint" />
