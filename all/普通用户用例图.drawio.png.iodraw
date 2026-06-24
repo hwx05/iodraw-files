@@ -1557,7 +1557,7 @@
         <mxCell id="JNekbcZJJoOpsha-FrA9-6" value="商家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="550" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JNekbcZJJoOpsha-FrA9-9" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JNekbcZJJoOpsha-FrA9-9" value="用户注册登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
