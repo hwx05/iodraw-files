@@ -1506,7 +1506,7 @@
           <mxGeometry x="294" y="855" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-10" value="管理个人信息" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="294" y="765" width="140" height="70" as="geometry" />
+          <mxGeometry x="294" y="790" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-11" value="超话社区互动" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="294" y="550" width="140" height="45" as="geometry" />
@@ -1620,7 +1620,7 @@
           <mxGeometry x="414" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C2AqHBbCmtnrR1IRCWQV-2" value="升级粉丝团等级" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="304" y="674" width="120" height="80" as="geometry" />
+          <mxGeometry x="304" y="710" width="120" height="44" as="geometry" />
         </mxCell>
         <mxCell id="C2AqHBbCmtnrR1IRCWQV-3" value="查看商品物流" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="460" y="880" width="120" height="80" as="geometry" />
