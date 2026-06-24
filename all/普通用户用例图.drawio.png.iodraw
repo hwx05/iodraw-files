@@ -1558,10 +1558,10 @@
           <mxGeometry x="50" y="550" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-9" value="用户注册登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="861" width="140" height="70" as="geometry" />
+          <mxGeometry x="294" y="770" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-10" value="个人用户信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="761" width="140" height="70" as="geometry" />
+          <mxGeometry x="294" y="680" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-11" value="超话社区互动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="525" width="140" height="70" as="geometry" />
@@ -1635,7 +1635,7 @@
             <mxPoint x="480" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JNekbcZJJoOpsha-FrA9-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.971;exitY=0.714;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JNekbcZJJoOpsha-FrA9-12">
+        <mxCell id="JNekbcZJJoOpsha-FrA9-33" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JNekbcZJJoOpsha-FrA9-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="710" as="sourcePoint" />
             <mxPoint x="710" y="630" as="targetPoint" />
