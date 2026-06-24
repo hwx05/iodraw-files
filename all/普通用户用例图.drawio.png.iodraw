@@ -1554,7 +1554,7 @@
         <mxCell id="JNekbcZJJoOpsha-FrA9-5" value="艺人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="270" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JNekbcZJJoOpsha-FrA9-6" value="商家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="JNekbcZJJoOpsha-FrA9-6" value="粉丝团团长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="550" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-9" value="用户注册登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1570,7 +1570,7 @@
           <mxGeometry x="470" y="455" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-13" value="演出票务操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="710" width="140" height="70" as="geometry" />
+          <mxGeometry x="470" y="265" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-14" value="周边商城消费" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="540" width="140" height="70" as="geometry" />
