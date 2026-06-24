@@ -1629,7 +1629,7 @@
           <mxGeometry x="460" y="856" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C2AqHBbCmtnrR1IRCWQV-5" value="申请商品售后" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="460" y="946" width="120" height="40" as="geometry" />
+          <mxGeometry x="460" y="910" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C2AqHBbCmtnrR1IRCWQV-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.039;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="JNekbcZJJoOpsha-FrA9-6" target="C2AqHBbCmtnrR1IRCWQV-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1655,7 +1655,7 @@
             <mxPoint x="710" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C2AqHBbCmtnrR1IRCWQV-11" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
+        <mxCell id="C2AqHBbCmtnrR1IRCWQV-11" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C2AqHBbCmtnrR1IRCWQV-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="1100" as="sourcePoint" />
             <mxPoint x="710" y="630" as="targetPoint" />
