@@ -746,8 +746,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="usVsC6oDKmDJUitygYIB-79" value="执行" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="827" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="usVsC6oDKmDJUitygYIB-79" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="860" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="usVsC6oDKmDJUitygYIB-80" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;fontSize=16;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="445" as="sourcePoint" />
+            <mxPoint x="910" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="usVsC6oDKmDJUitygYIB-81" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=16;" vertex="1" connectable="0" parent="usVsC6oDKmDJUitygYIB-80">
+          <mxGeometry x="-0.125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
