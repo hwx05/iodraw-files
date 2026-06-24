@@ -1497,16 +1497,16 @@
           <mxGeometry x="710" y="610" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-5" value="艺人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="50" y="794" width="30" height="60" as="geometry" />
+          <mxGeometry x="50" y="805" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-6" value="粉丝团团长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="50" y="550" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-9" value="用户注册登录" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="294" y="844" width="140" height="70" as="geometry" />
+          <mxGeometry x="294" y="855" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-10" value="管理个人信息" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="294" y="754" width="140" height="70" as="geometry" />
+          <mxGeometry x="294" y="765" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-11" value="超话社区互动" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="294" y="525" width="140" height="70" as="geometry" />
@@ -1606,14 +1606,14 @@
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-42" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.024;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="JNekbcZJJoOpsha-FrA9-5" target="JNekbcZJJoOpsha-FrA9-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="834" as="sourcePoint" />
-            <mxPoint x="290" y="784" as="targetPoint" />
+            <mxPoint x="240" y="845" as="sourcePoint" />
+            <mxPoint x="290" y="795" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-43" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="JNekbcZJJoOpsha-FrA9-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="914" as="sourcePoint" />
-            <mxPoint x="300" y="864" as="targetPoint" />
+            <mxPoint x="250" y="925" as="sourcePoint" />
+            <mxPoint x="300" y="875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C2AqHBbCmtnrR1IRCWQV-1" value="选择商品收藏" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
@@ -1637,25 +1637,25 @@
             <mxPoint x="300" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C2AqHBbCmtnrR1IRCWQV-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;" edge="1" parent="1" target="JNekbcZJJoOpsha-FrA9-2">
+        <mxCell id="C2AqHBbCmtnrR1IRCWQV-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" target="JNekbcZJJoOpsha-FrA9-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="240" as="sourcePoint" />
             <mxPoint x="580" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C2AqHBbCmtnrR1IRCWQV-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=宋体;" edge="1" parent="1" source="C2AqHBbCmtnrR1IRCWQV-3">
+        <mxCell id="C2AqHBbCmtnrR1IRCWQV-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="C2AqHBbCmtnrR1IRCWQV-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="820" as="sourcePoint" />
             <mxPoint x="710" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C2AqHBbCmtnrR1IRCWQV-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.972;exitY=0.321;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=宋体;" edge="1" parent="1" source="C2AqHBbCmtnrR1IRCWQV-4">
+        <mxCell id="C2AqHBbCmtnrR1IRCWQV-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.972;exitY=0.321;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="C2AqHBbCmtnrR1IRCWQV-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="930" as="sourcePoint" />
             <mxPoint x="710" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C2AqHBbCmtnrR1IRCWQV-11" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;" edge="1" parent="1">
+        <mxCell id="C2AqHBbCmtnrR1IRCWQV-11" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="1100" as="sourcePoint" />
             <mxPoint x="710" y="630" as="targetPoint" />
