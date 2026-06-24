@@ -1512,7 +1512,7 @@
           <mxGeometry x="294" y="550" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-12" value="粉丝团管理" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="294" y="630" width="140" height="40" as="geometry" />
+          <mxGeometry x="294" y="610" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-13" value="演出票务操作" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="404" y="300" width="140" height="50" as="geometry" />
@@ -1527,7 +1527,7 @@
           <mxGeometry x="191" y="310" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-19" value="内容审核管理" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="191" y="470" width="140" height="55" as="geometry" />
+          <mxGeometry x="191" y="480" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-20" value="维护商品票务" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="191" y="390" width="140" height="45" as="geometry" />
