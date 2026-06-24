@@ -1549,7 +1549,7 @@
           <mxGeometry x="50" y="310" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-2" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="310" width="30" height="60" as="geometry" />
+          <mxGeometry x="710" y="610" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-5" value="艺人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="525" width="30" height="60" as="geometry" />
