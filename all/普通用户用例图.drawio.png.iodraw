@@ -590,7 +590,7 @@
             <mxPoint x="230" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="usVsC6oDKmDJUitygYIB-10" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=16;" vertex="1" connectable="0" parent="usVsC6oDKmDJUitygYIB-8">
+        <mxCell id="usVsC6oDKmDJUitygYIB-10" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=16;" vertex="1" connectable="0" parent="usVsC6oDKmDJUitygYIB-8">
           <mxGeometry x="-0.0467" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -601,7 +601,7 @@
             <mxPoint x="310" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="usVsC6oDKmDJUitygYIB-11" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=16;" vertex="1" connectable="0" parent="usVsC6oDKmDJUitygYIB-9">
+        <mxCell id="usVsC6oDKmDJUitygYIB-11" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=16;" vertex="1" connectable="0" parent="usVsC6oDKmDJUitygYIB-9">
           <mxGeometry x="0.0539" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
