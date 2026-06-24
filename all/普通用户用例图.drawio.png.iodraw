@@ -1561,7 +1561,7 @@
           <mxGeometry x="470" y="170" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-10" value="个人用户信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="270" width="140" height="70" as="geometry" />
+          <mxGeometry x="470" y="70" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-11" value="超话社区互动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="140" height="70" as="geometry" />
@@ -1570,7 +1570,7 @@
           <mxGeometry x="470" y="455" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-13" value="演出票务操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="80" width="140" height="70" as="geometry" />
+          <mxGeometry x="470" y="710" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-14" value="周边商城消费" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="540" width="140" height="70" as="geometry" />
