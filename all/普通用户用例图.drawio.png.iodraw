@@ -607,10 +607,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="usVsC6oDKmDJUitygYIB-14" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;演唱会&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="usVsC6oDKmDJUitygYIB-17" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="usVsC6oDKmDJUitygYIB-18" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
