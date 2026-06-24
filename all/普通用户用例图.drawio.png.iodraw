@@ -1505,7 +1505,7 @@
         <mxCell id="JNekbcZJJoOpsha-FrA9-9" value="用户注册登录" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="294" y="844" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JNekbcZJJoOpsha-FrA9-10" value="个人信息管理" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="JNekbcZJJoOpsha-FrA9-10" value="管理个人信息" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="294" y="754" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-11" value="超话社区互动" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
