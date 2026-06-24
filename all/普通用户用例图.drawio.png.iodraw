@@ -1497,7 +1497,7 @@
           <mxGeometry x="710" y="610" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-5" value="艺人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="140" y="710" width="30" height="60" as="geometry" />
+          <mxGeometry x="90" y="680" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-6" value="粉丝团团长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="90" y="555" width="30" height="60" as="geometry" />
