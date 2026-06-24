@@ -1570,22 +1570,22 @@
           <mxGeometry x="294" y="600" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-13" value="演出票务操作" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="469" y="270" width="140" height="70" as="geometry" />
+          <mxGeometry x="406" y="270" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-14" value="周边商城消费" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="469" y="450" width="140" height="70" as="geometry" />
+          <mxGeometry x="406" y="450" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-17" value="虚拟货币充值消费" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="469" y="360" width="140" height="70" as="geometry" />
+          <mxGeometry x="406" y="360" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-18" value="用户权限管理" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="170" y="265" width="140" height="70" as="geometry" />
+          <mxGeometry x="182" y="265" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-19" value="内容审核管理" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="170" y="455" width="140" height="70" as="geometry" />
+          <mxGeometry x="182" y="455" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-20" value="商品票务维护" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="170" y="365" width="140" height="70" as="geometry" />
+          <mxGeometry x="182" y="365" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-23" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="JNekbcZJJoOpsha-FrA9-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
