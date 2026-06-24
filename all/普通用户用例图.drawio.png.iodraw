@@ -1563,7 +1563,7 @@
         <mxCell id="JNekbcZJJoOpsha-FrA9-10" value="个人用户信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="270" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JNekbcZJJoOpsha-FrA9-11" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JNekbcZJJoOpsha-FrA9-11" value="超话社区互动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
