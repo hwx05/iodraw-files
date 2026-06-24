@@ -581,7 +581,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="usVsC6oDKmDJUitygYIB-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="usVsC6oDKmDJUitygYIB-39" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;核销码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
