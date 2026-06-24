@@ -528,7 +528,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="usVsC6oDKmDJUitygYIB-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="usVsC6oDKmDJUitygYIB-28" value="订单物流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
