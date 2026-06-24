@@ -1661,7 +1661,7 @@
             <mxPoint x="710" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C2AqHBbCmtnrR1IRCWQV-15" value="Object" style="html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="C2AqHBbCmtnrR1IRCWQV-15" value="" style="html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="310" width="330" height="610" as="geometry" />
         </mxCell>
       </root>
