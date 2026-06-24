@@ -1515,13 +1515,13 @@
           <mxGeometry x="294" y="600" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-13" value="演出票务操作" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="404" y="390" width="140" height="50" as="geometry" />
+          <mxGeometry x="434" y="390" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-14" value="周边商城消费" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="406" y="510" width="140" height="50" as="geometry" />
+          <mxGeometry x="430" y="511" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-17" value="虚拟货币充值消费" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="406" y="450" width="140" height="50" as="geometry" />
+          <mxGeometry x="430" y="451" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-18" value="用户权限管理" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="180" y="411" width="140" height="40" as="geometry" />
