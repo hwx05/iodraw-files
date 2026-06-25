@@ -1403,7 +1403,7 @@
           <mxGeometry x="340" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqkhyOW8WgwL-6bVfuTi-3" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="340" y="495" width="100" height="60" as="geometry" />
+          <mxGeometry x="340" y="471" width="100" height="39" as="geometry" />
         </mxCell>
         <mxCell id="zqkhyOW8WgwL-6bVfuTi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="zqkhyOW8WgwL-6bVfuTi-5" target="zqkhyOW8WgwL-6bVfuTi-7">
           <mxGeometry relative="1" as="geometry" />
@@ -1428,8 +1428,8 @@
             <mxPoint x="610" y="458" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="572" y="410" />
-              <mxPoint x="650" y="410" />
-              <mxPoint x="650" y="136" />
+              <mxPoint x="590" y="410" />
+              <mxPoint x="590" y="136" />
             </Array>
           </mxGeometry>
         </mxCell>
