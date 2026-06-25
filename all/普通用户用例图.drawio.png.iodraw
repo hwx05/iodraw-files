@@ -1882,8 +1882,8 @@
         <mxCell id="C2AqHBbCmtnrR1IRCWQV-15" value="" style="html=1;whiteSpace=wrap;fillColor=none;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="290" y="1000" width="330" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="TpdCvt_yt-KTir1TmnFP-1" value="艺人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="100" y="710" width="30" height="60" as="geometry" />
+        <mxCell id="TpdCvt_yt-KTir1TmnFP-1" value="商家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="830" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
