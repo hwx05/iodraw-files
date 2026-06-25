@@ -1613,9 +1613,9 @@
         </mxCell>
         <mxCell id="hxW-QWBfVTknMjkGc7D4-9" value="2.发送发帖请求" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="300" as="sourcePoint" />
+            <mxPoint x="290" y="291" as="sourcePoint" />
             <mxPoint as="offset" />
-            <mxPoint x="430" y="300" as="targetPoint" />
+            <mxPoint x="430" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hxW-QWBfVTknMjkGc7D4-10" value="3.进行审核" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
