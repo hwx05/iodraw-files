@@ -1820,7 +1820,7 @@
           <mxGeometry x="430" y="451" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-18" value="用户权限管理" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="294" y="370" width="140" height="40" as="geometry" />
+          <mxGeometry x="290" y="438" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JNekbcZJJoOpsha-FrA9-19" value="内容审核管理" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="294" y="488" width="140" height="45" as="geometry" />
