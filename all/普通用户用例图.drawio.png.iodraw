@@ -1527,7 +1527,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-yKBGy9N0OV-hrJUO3gy-2" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="340" y="60" width="100" height="60" as="geometry" />
+          <mxGeometry x="340" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-yKBGy9N0OV-hrJUO3gy-3" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="340" y="560" width="100" height="60" as="geometry" />
