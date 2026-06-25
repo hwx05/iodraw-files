@@ -1900,13 +1900,13 @@
           <mxGeometry x="350" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;手机号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="474" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="470" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;邮箱&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;昵称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="600" y="330" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-8" value="头像" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="160" y="250" width="120" height="80" as="geometry" />
@@ -1929,7 +1929,7 @@
             <mxPoint x="410" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vo6mgpv7gtNXVdrlKXkS-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="Vo6mgpv7gtNXVdrlKXkS-1">
+        <mxCell id="Vo6mgpv7gtNXVdrlKXkS-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=16;entryX=0.253;entryY=0.904;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vo6mgpv7gtNXVdrlKXkS-1" target="Vo6mgpv7gtNXVdrlKXkS-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="290" as="sourcePoint" />
             <mxPoint x="510" y="240" as="targetPoint" />
@@ -1941,7 +1941,7 @@
             <mxPoint x="580" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vo6mgpv7gtNXVdrlKXkS-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.022;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="Vo6mgpv7gtNXVdrlKXkS-1" target="Vo6mgpv7gtNXVdrlKXkS-7">
+        <mxCell id="Vo6mgpv7gtNXVdrlKXkS-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.036;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="Vo6mgpv7gtNXVdrlKXkS-1" target="Vo6mgpv7gtNXVdrlKXkS-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="420" as="sourcePoint" />
             <mxPoint x="600" y="370" as="targetPoint" />
