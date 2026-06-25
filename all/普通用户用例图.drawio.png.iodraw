@@ -1894,7 +1894,7 @@
           <mxGeometry x="140" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="230" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="340" y="130" width="120" height="80" as="geometry" />
@@ -1909,7 +1909,7 @@
           <mxGeometry x="600" y="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-8" value="头像" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="90" y="230" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-10" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vo6mgpv7gtNXVdrlKXkS-2" target="Vo6mgpv7gtNXVdrlKXkS-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
