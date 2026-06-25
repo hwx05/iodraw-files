@@ -1549,14 +1549,15 @@
         <mxCell id="-yKBGy9N0OV-hrJUO3gy-8" value="显示充值成功" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="340" y="442" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-yKBGy9N0OV-hrJUO3gy-10">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="150" as="targetPoint" />
+            <mxPoint x="390" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="650" y="472" />
+              <mxPoint x="610" y="470" />
+              <mxPoint x="650" y="470" />
               <mxPoint x="650" y="160" />
-              <mxPoint x="390" y="160" />
             </Array>
+            <mxPoint x="610" y="482" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-yKBGy9N0OV-hrJUO3gy-10" value="提示充值失败" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
