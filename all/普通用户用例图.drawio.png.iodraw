@@ -1679,16 +1679,16 @@
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-8" value="发布被拒" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="406" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jcnwFYWRtV8w7eZFf-b9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jcnwFYWRtV8w7eZFf-b9-10">
+        <mxCell id="jcnwFYWRtV8w7eZFf-b9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jcnwFYWRtV8w7eZFf-b9-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="504" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="504" />
+              <mxPoint x="493" y="504" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-10" value="正常发布" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="455" y="406" width="80" height="60" as="geometry" />
+          <mxGeometry x="453" y="406" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontFamily=宋体;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jcnwFYWRtV8w7eZFf-b9-7" target="jcnwFYWRtV8w7eZFf-b9-10">
           <mxGeometry relative="1" as="geometry">
@@ -1703,7 +1703,7 @@
           <mxGeometry x="380" y="385" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-14" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;N&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="445" y="325" width="60" height="30" as="geometry" />
+          <mxGeometry x="443" y="325" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
