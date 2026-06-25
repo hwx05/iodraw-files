@@ -529,7 +529,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="usVsC6oDKmDJUitygYIB-34" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="870" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="usVsC6oDKmDJUitygYIB-37" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="usVsC6oDKmDJUitygYIB-47" target="usVsC6oDKmDJUitygYIB-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
