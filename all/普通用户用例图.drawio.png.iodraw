@@ -1888,7 +1888,7 @@
         <mxCell id="TpdCvt_yt-KTir1TmnFP-2" value="维护商品功能" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="304" y="806" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TpdCvt_yt-KTir1TmnFP-3" value="进行商品评价" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="TpdCvt_yt-KTir1TmnFP-3" value="处理订单" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="304" y="860" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
