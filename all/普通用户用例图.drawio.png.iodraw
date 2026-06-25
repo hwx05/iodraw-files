@@ -799,9 +799,9 @@
         <mxCell id="VPmvY1MbRKN-alxhVonw-18" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="860" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VPmvY1MbRKN-alxhVonw-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="usVsC6oDKmDJUitygYIB-39" target="VPmvY1MbRKN-alxhVonw-18">
+        <mxCell id="VPmvY1MbRKN-alxhVonw-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" target="VPmvY1MbRKN-alxhVonw-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="140" as="sourcePoint" />
+            <mxPoint x="740" y="200" as="sourcePoint" />
             <mxPoint x="540" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -820,6 +820,9 @@
           <mxGeometry x="-0.0336" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VPmvY1MbRKN-alxhVonw-24" value="粉丝团" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
