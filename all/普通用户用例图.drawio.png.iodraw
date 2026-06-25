@@ -566,7 +566,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="usVsC6oDKmDJUitygYIB-47" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;商品订单&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="133" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="usVsC6oDKmDJUitygYIB-48" value="帖子" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="765" y="120" width="120" height="60" as="geometry" />
@@ -649,7 +649,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="usVsC6oDKmDJUitygYIB-68" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="usVsC6oDKmDJUitygYIB-68" value="管理" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="310" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="usVsC6oDKmDJUitygYIB-69" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;fontSize=16;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="usVsC6oDKmDJUitygYIB-68" target="VPmvY1MbRKN-alxhVonw-1">
