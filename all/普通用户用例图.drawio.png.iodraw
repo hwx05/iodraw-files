@@ -1646,7 +1646,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="91XqCQOk5znbIMlFBiiJ" name="第 20 页">
+  <diagram id="91XqCQOk5znbIMlFBiiJ" name="超话社区模块流程图">
     <mxGraphModel dx="1132" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1679,11 +1679,12 @@
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-8" value="发布被拒" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="406" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jcnwFYWRtV8w7eZFf-b9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jcnwFYWRtV8w7eZFf-b9-10">
+        <mxCell id="jcnwFYWRtV8w7eZFf-b9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="504" as="targetPoint" />
+            <mxPoint x="390" y="488" as="targetPoint" />
+            <mxPoint x="493" y="450" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="493" y="504" />
+              <mxPoint x="493" y="488" />
             </Array>
           </mxGeometry>
         </mxCell>
