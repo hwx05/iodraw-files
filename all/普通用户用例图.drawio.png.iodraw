@@ -1856,7 +1856,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C2AqHBbCmtnrR1IRCWQV-15" value="" style="html=1;whiteSpace=wrap;fillColor=none;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="294" y="890" width="320" height="520" as="geometry" />
+          <mxGeometry x="260" y="428" width="320" height="492" as="geometry" />
         </mxCell>
         <mxCell id="TpdCvt_yt-KTir1TmnFP-1" value="商家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="176" y="830" width="30" height="60" as="geometry" />
