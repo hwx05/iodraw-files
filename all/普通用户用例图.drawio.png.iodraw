@@ -1683,14 +1683,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="504" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="556" y="504" />
+              <mxPoint x="560" y="504" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jcnwFYWRtV8w7eZFf-b9-10" value="正常发布" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="520" y="406" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jcnwFYWRtV8w7eZFf-b9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="jcnwFYWRtV8w7eZFf-b9-7">
+        <mxCell id="jcnwFYWRtV8w7eZFf-b9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontFamily=宋体;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jcnwFYWRtV8w7eZFf-b9-7" target="jcnwFYWRtV8w7eZFf-b9-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="336" as="sourcePoint" />
             <mxPoint x="556" y="425" as="targetPoint" />
