@@ -1491,15 +1491,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4vmVzMLz8qfl1m431S8c-11" value="3.执行请求" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="4vmVzMLz8qfl1m431S8c-5" target="4vmVzMLz8qfl1m431S8c-7">
+        <mxCell id="4vmVzMLz8qfl1m431S8c-11" value="3.执行请求" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="324" as="sourcePoint" />
+            <mxPoint x="440" y="319" as="sourcePoint" />
+            <mxPoint x="610" y="319" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4vmVzMLz8qfl1m431S8c-12" value="4.返回更新状态" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="351" as="targetPoint" />
-            <mxPoint x="610" y="351" as="sourcePoint" />
+            <mxPoint x="440" y="359" as="targetPoint" />
+            <mxPoint x="610" y="359" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
