@@ -1479,14 +1479,15 @@
         </mxCell>
         <mxCell id="4vmVzMLz8qfl1m431S8c-9" value="1.选择充值的金额" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1">
           <mxGeometry x="-0.0026" relative="1" as="geometry">
-            <mxPoint x="89.5" y="300" as="sourcePoint" />
+            <mxPoint x="89.5" y="299" as="sourcePoint" />
             <mxPoint as="offset" />
-            <mxPoint x="290" y="300" as="targetPoint" />
+            <mxPoint x="290" y="299" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4vmVzMLz8qfl1m431S8c-10" value="2.发送充值请求" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1" source="4vmVzMLz8qfl1m431S8c-3" target="4vmVzMLz8qfl1m431S8c-5">
+        <mxCell id="4vmVzMLz8qfl1m431S8c-10" value="2.发送充值请求" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="314" as="sourcePoint" />
+            <mxPoint x="300" y="309" as="sourcePoint" />
+            <mxPoint x="430" y="309" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
