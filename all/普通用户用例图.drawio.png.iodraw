@@ -1433,11 +1433,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zqkhyOW8WgwL-6bVfuTi-10" value="提示打榜失败" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="467" y="378" width="109" height="60" as="geometry" />
+          <mxGeometry x="463" y="378" width="109" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqkhyOW8WgwL-6bVfuTi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.594;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" target="zqkhyOW8WgwL-6bVfuTi-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="468.5" y="296" as="sourcePoint" />
+            <mxPoint x="464.5" y="296" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zqkhyOW8WgwL-6bVfuTi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="zqkhyOW8WgwL-6bVfuTi-8" target="zqkhyOW8WgwL-6bVfuTi-3">
@@ -1447,7 +1447,7 @@
           <mxGeometry x="380" y="346" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zqkhyOW8WgwL-6bVfuTi-14" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;N&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="486" y="306" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="496" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
