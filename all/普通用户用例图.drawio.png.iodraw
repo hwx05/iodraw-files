@@ -2123,7 +2123,7 @@
         <mxCell id="26nMfWK2C2xvWmuPtwyA-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;任务描述&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="26nMfWK2C2xvWmuPtwyA-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;创建时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="26nMfWK2C2xvWmuPtwyA-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;奖励星光值&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="470" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="26nMfWK2C2xvWmuPtwyA-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="26nMfWK2C2xvWmuPtwyA-2" target="26nMfWK2C2xvWmuPtwyA-1">
