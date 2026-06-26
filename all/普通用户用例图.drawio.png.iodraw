@@ -1302,15 +1302,17 @@
             <mxPoint x="280" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2O52lK6QXyby3EB6204T-10" value="2.发送购物请求" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-3" target="2O52lK6QXyby3EB6204T-5">
+        <mxCell id="2O52lK6QXyby3EB6204T-10" value="2.发送购物请求" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="322" as="sourcePoint" />
+            <mxPoint x="290" y="318" as="sourcePoint" />
+            <mxPoint x="430" y="318" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2O52lK6QXyby3EB6204T-11" value="3.创建支付单据" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="2O52lK6QXyby3EB6204T-5" target="2O52lK6QXyby3EB6204T-7">
+        <mxCell id="2O52lK6QXyby3EB6204T-11" value="3.创建支付单据" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="332" as="sourcePoint" />
+            <mxPoint x="440" y="327" as="sourcePoint" />
+            <mxPoint x="610" y="327" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
