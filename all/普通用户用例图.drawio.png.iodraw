@@ -2117,7 +2117,7 @@
         <mxCell id="26nMfWK2C2xvWmuPtwyA-3" value="内容" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="530" y="340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="26nMfWK2C2xvWmuPtwyA-4" value="归属用户" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="26nMfWK2C2xvWmuPtwyA-4" value="任务名称" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="210" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="26nMfWK2C2xvWmuPtwyA-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;归属粉丝团&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
