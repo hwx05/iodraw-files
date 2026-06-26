@@ -2159,7 +2159,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="HbIrngpYEMpH2BCg62xl" name="第 26 页">
+  <diagram id="HbIrngpYEMpH2BCg62xl" name="星光值">
     <mxGraphModel dx="1132" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -2171,7 +2171,7 @@
           <mxGeometry x="170" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0MDsSl7GGG4Epwot-SOP-4" value="余额" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="230" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0MDsSl7GGG4Epwot-SOP-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;累计获得&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="450" y="250" width="120" height="80" as="geometry" />
