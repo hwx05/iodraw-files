@@ -1247,13 +1247,14 @@
         </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-13" value="5.更新该锁记录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="385" as="sourcePoint" />
-            <mxPoint x="610" y="385" as="targetPoint" />
+            <mxPoint x="440" y="383" as="sourcePoint" />
+            <mxPoint x="610" y="383" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T1uXYbyR3ekCASk_cQVo-14" value="6.返回数据库更新成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;fontFamily=宋体;fontSize=16;" edge="1" source="T1uXYbyR3ekCASk_cQVo-12" parent="1">
+        <mxCell id="T1uXYbyR3ekCASk_cQVo-14" value="6.返回数据库更新成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="416" as="targetPoint" />
+            <mxPoint x="440" y="422" as="targetPoint" />
+            <mxPoint x="610" y="422" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-15" value="7.座位锁定成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
