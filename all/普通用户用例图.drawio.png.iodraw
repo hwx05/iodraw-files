@@ -852,7 +852,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6MO-2_EwoOUPkkX3TgY1" name="第 7 页">
-    <mxGraphModel dx="1236" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1132" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -974,7 +974,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5PhpI65oFGt1g_d6Kdf4-16" value="订单被取消" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="508" y="414" width="120" height="60" as="geometry" />
+          <mxGeometry x="507" y="415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5PhpI65oFGt1g_d6Kdf4-19" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="380" y="536" width="100" height="39" as="geometry" />
