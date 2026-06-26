@@ -1218,7 +1218,7 @@
           <mxGeometry x="50" y="89" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" vertex="1" parent="T1uXYbyR3ekCASk_cQVo-4">
-          <mxGeometry x="50" y="148" width="10" height="38" as="geometry" />
+          <mxGeometry x="50" y="149" width="10" height="38" as="geometry" />
         </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-6" value="1.选择目标座位" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" edge="1" parent="1">
           <mxGeometry x="-0.0026" relative="1" as="geometry">
@@ -1235,8 +1235,8 @@
         </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-10" value="3.执行分布锁" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="320" as="sourcePoint" />
-            <mxPoint x="610" y="320" as="targetPoint" />
+            <mxPoint x="440" y="319" as="sourcePoint" />
+            <mxPoint x="610" y="319" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-11" value="4.获锁状态" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
@@ -1247,25 +1247,25 @@
         </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-13" value="5.更新该锁记录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;" edge="1" target="T1uXYbyR3ekCASk_cQVo-12" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="383" as="sourcePoint" />
+            <mxPoint x="440" y="384" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-14" value="6.返回数据库更新成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;fontFamily=宋体;fontSize=16;" edge="1" source="T1uXYbyR3ekCASk_cQVo-12" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="411" as="targetPoint" />
+            <mxPoint x="440" y="412" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-15" value="7.座位锁定成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="426" as="sourcePoint" />
-            <mxPoint x="290" y="426" as="targetPoint" />
+            <mxPoint x="430" y="427" as="sourcePoint" />
+            <mxPoint x="290" y="427" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-16" value="8.提示尽快支付" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry x="-0.0026" relative="1" as="geometry">
-            <mxPoint x="280" y="446" as="sourcePoint" />
-            <mxPoint x="89.5" y="446" as="targetPoint" />
+            <mxPoint x="280" y="447" as="sourcePoint" />
+            <mxPoint x="89.5" y="447" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
