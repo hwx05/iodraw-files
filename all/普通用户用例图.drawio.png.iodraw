@@ -2348,13 +2348,13 @@
           <mxGeometry x="140" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pnXr6JHqerUQAwk0u2Vv-3" value="详情介绍" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pnXr6JHqerUQAwk0u2Vv-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;开场时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="350" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pnXr6JHqerUQAwk0u2Vv-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;散场时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pnXr6JHqerUQAwk0u2Vv-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;封面&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="330" width="120" height="80" as="geometry" />
@@ -2386,7 +2386,7 @@
             <mxPoint x="510" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pnXr6JHqerUQAwk0u2Vv-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.017;entryY=0.654;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="pnXr6JHqerUQAwk0u2Vv-1" target="pnXr6JHqerUQAwk0u2Vv-6">
+        <mxCell id="pnXr6JHqerUQAwk0u2Vv-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.017;entryY=0.654;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="pnXr6JHqerUQAwk0u2Vv-1" target="pnXr6JHqerUQAwk0u2Vv-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="340" as="sourcePoint" />
             <mxPoint x="580" y="290" as="targetPoint" />
