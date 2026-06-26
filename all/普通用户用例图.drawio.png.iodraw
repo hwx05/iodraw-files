@@ -1331,8 +1331,8 @@
         </mxCell>
         <mxCell id="2O52lK6QXyby3EB6204T-23" value="6.跳转支付页面" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry x="-0.0026" relative="1" as="geometry">
-            <mxPoint x="280" y="389" as="sourcePoint" />
-            <mxPoint x="89.5" y="389" as="targetPoint" />
+            <mxPoint x="280" y="406" as="sourcePoint" />
+            <mxPoint x="89.5" y="406" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
