@@ -1143,7 +1143,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z0r9_wFsNU94gpmBRqEe-2" value="用户选择演出和单位" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="330" y="268" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="268" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z0r9_wFsNU94gpmBRqEe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="Z0r9_wFsNU94gpmBRqEe-3" target="Z0r9_wFsNU94gpmBRqEe-7">
           <mxGeometry relative="1" as="geometry" />
