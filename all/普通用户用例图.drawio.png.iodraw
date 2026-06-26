@@ -2362,7 +2362,7 @@
         <mxCell id="pnXr6JHqerUQAwk0u2Vv-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;昵称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="550" y="330" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pnXr6JHqerUQAwk0u2Vv-8" value="头像" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pnXr6JHqerUQAwk0u2Vv-8" value="标题" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="160" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pnXr6JHqerUQAwk0u2Vv-9" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pnXr6JHqerUQAwk0u2Vv-2" target="pnXr6JHqerUQAwk0u2Vv-1">
