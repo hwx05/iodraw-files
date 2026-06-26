@@ -2350,10 +2350,10 @@
         <mxCell id="pnXr6JHqerUQAwk0u2Vv-3" value="详情介绍" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="230" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pnXr6JHqerUQAwk0u2Vv-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pnXr6JHqerUQAwk0u2Vv-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;开场时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="350" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pnXr6JHqerUQAwk0u2Vv-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;手机号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pnXr6JHqerUQAwk0u2Vv-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;散场时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="470" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pnXr6JHqerUQAwk0u2Vv-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;邮箱&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
