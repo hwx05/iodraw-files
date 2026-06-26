@@ -1318,15 +1318,15 @@
         </mxCell>
         <mxCell id="2O52lK6QXyby3EB6204T-12" value="4.返回支付链接" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="359" as="targetPoint" />
-            <mxPoint x="610" y="359" as="sourcePoint" />
+            <mxPoint x="440" y="367" as="targetPoint" />
+            <mxPoint x="610" y="367" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2O52lK6QXyby3EB6204T-22" value="5.下发支付链接" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="379" as="sourcePoint" />
-            <mxPoint x="290" y="379" as="targetPoint" />
+            <mxPoint x="430" y="386" as="sourcePoint" />
+            <mxPoint x="290" y="386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2O52lK6QXyby3EB6204T-23" value="6.跳转支付页面" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
