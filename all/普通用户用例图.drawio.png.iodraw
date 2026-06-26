@@ -1022,12 +1022,12 @@
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-3" value="显示认证成功相关信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="308" y="396" width="166" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVFcoYkFXELrW5a5m9Gc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="TVFcoYkFXELrW5a5m9Gc-4">
+        <mxCell id="TVFcoYkFXELrW5a5m9Gc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="391" y="507" as="targetPoint" />
+            <mxPoint x="391" y="506" as="targetPoint" />
+            <mxPoint x="580.5" y="455" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="571" y="507" />
-              <mxPoint x="442" y="507" />
+              <mxPoint x="581" y="506" />
             </Array>
           </mxGeometry>
         </mxCell>
