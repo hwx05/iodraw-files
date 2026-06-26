@@ -1368,11 +1368,12 @@
         <mxCell id="GWnU8JVwjuJSQrT8WBK2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="GWnU8JVwjuJSQrT8WBK2-7" target="GWnU8JVwjuJSQrT8WBK2-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GWnU8JVwjuJSQrT8WBK2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="GWnU8JVwjuJSQrT8WBK2-7">
+        <mxCell id="GWnU8JVwjuJSQrT8WBK2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="392" as="targetPoint" />
+            <mxPoint x="419.5" y="385" as="targetPoint" />
+            <mxPoint x="496.5" y="445" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="521" y="452" />
+              <mxPoint x="520.5" y="445" />
             </Array>
           </mxGeometry>
         </mxCell>
