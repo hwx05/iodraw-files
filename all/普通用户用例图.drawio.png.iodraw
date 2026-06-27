@@ -2174,10 +2174,10 @@
           <mxGeometry x="230" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0MDsSl7GGG4Epwot-SOP-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;累计获得&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="450" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="510" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0MDsSl7GGG4Epwot-SOP-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;累计消耗&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="550" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="550" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0MDsSl7GGG4Epwot-SOP-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0MDsSl7GGG4Epwot-SOP-2" target="0MDsSl7GGG4Epwot-SOP-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
