@@ -2398,12 +2398,6 @@
             <mxPoint x="210" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ch_tYtxky9cvdHUlejsj-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="220" y="585" width="130" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="ch_tYtxky9cvdHUlejsj-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="520" width="130" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
