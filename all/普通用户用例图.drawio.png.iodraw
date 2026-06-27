@@ -2274,13 +2274,13 @@
           <mxGeometry x="140" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q4W1KlFQcUgnRAnIFg_l-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;价格&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q4W1KlFQcUgnRAnIFg_l-4" value="类别" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="350" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q4W1KlFQcUgnRAnIFg_l-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;库存&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q4W1KlFQcUgnRAnIFg_l-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;照片&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="300" width="120" height="40" as="geometry" />
@@ -2289,7 +2289,7 @@
           <mxGeometry x="550" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q4W1KlFQcUgnRAnIFg_l-8" value="名称" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="160" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q4W1KlFQcUgnRAnIFg_l-9" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="q4W1KlFQcUgnRAnIFg_l-2" target="q4W1KlFQcUgnRAnIFg_l-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
