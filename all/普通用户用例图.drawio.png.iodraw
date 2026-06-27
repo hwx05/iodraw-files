@@ -2059,16 +2059,16 @@
           <mxGeometry x="160" y="350" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ttYGFz9EvRLzpBgyMm3w-3" value="内容" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="500" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="500" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ttYGFz9EvRLzpBgyMm3w-4" value="归属用户" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="210" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ttYGFz9EvRLzpBgyMm3w-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;归属粉丝团&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="120" height="50" as="geometry" />
+          <mxGeometry x="330" y="270" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ttYGFz9EvRLzpBgyMm3w-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;创建时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="280" width="120" height="50" as="geometry" />
+          <mxGeometry x="470" y="290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ttYGFz9EvRLzpBgyMm3w-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ttYGFz9EvRLzpBgyMm3w-2" target="ttYGFz9EvRLzpBgyMm3w-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
