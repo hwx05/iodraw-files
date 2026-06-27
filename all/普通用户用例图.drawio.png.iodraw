@@ -1019,7 +1019,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-2" value="是否已经认证成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="277.5" y="222" width="225" height="100" as="geometry" />
+          <mxGeometry x="300" y="250" width="202.5" height="72" as="geometry" />
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-3" value="显示认证成功相关信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="308" y="361" width="166" height="39" as="geometry" />
