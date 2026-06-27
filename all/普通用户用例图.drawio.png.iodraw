@@ -1760,8 +1760,8 @@
         <mxCell id="awvB7t8BvN-bnRXeta_z-1" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="520" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="awvB7t8BvN-bnRXeta_z-2" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="380" y="638" width="100" height="60" as="geometry" />
+        <mxCell id="awvB7t8BvN-bnRXeta_z-2" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="343" y="80" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
