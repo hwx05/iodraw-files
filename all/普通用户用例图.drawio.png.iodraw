@@ -1002,11 +1002,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TVFcoYkFXELrW5a5m9Gc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="ay7Kd4sFGkCQAelHc9a5-1" target="TVFcoYkFXELrW5a5m9Gc-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ay7Kd4sFGkCQAelHc9a5-1" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="340" y="80" width="100" height="40" as="geometry" />
+        <mxCell id="TVFcoYkFXELrW5a5m9Gc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" target="TVFcoYkFXELrW5a5m9Gc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="120" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ay7Kd4sFGkCQAelHc9a5-2" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="341" y="508" width="100" height="39" as="geometry" />
@@ -1056,7 +1055,10 @@
           <mxGeometry x="530" y="317" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Xnwv2cofDVDvxI-bsc2-1" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="160" y="180" width="100" height="60" as="geometry" />
+          <mxGeometry x="341" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Xnwv2cofDVDvxI-bsc2-2" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="600" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
