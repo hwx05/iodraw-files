@@ -1052,9 +1052,6 @@
         <mxCell id="zUOfdsUqOwR1C57EjErK-2" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;N&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="491.25" y="262" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6Xnwv2cofDVDvxI-bsc2-1" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="341" y="60" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="6Xnwv2cofDVDvxI-bsc2-2" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="356" y="430" width="69" height="40" as="geometry" />
         </mxCell>
@@ -1062,7 +1059,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Xnwv2cofDVDvxI-bsc2-5" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="366" y="440" width="69" height="40" as="geometry" />
+          <mxGeometry x="460" y="50" width="69" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
