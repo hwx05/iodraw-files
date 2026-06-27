@@ -1034,7 +1034,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-4" value="填写个人信息进行认证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="501" y="361" width="169" height="39" as="geometry" />
+          <mxGeometry x="483" y="361" width="169" height="39" as="geometry" />
         </mxCell>
         <mxCell id="TVFcoYkFXELrW5a5m9Gc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.594;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
