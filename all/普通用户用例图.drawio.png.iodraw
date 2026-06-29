@@ -1580,33 +1580,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6oDwBw_OMB2IpdTzWo-o" name="虚拟货币模块流程图">
-    <mxGraphModel dx="1624" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1172" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" target="-yKBGy9N0OV-hrJUO3gy-5">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" parent="1" target="-yKBGy9N0OV-hrJUO3gy-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="140" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="-yKBGy9N0OV-hrJUO3gy-5" target="-yKBGy9N0OV-hrJUO3gy-7">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" parent="1" source="-yKBGy9N0OV-hrJUO3gy-5" target="-yKBGy9N0OV-hrJUO3gy-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-5" value="选择金额进行充值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-5" value="选择金额进行充值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="310" y="180" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;" edge="1" parent="1" target="-yKBGy9N0OV-hrJUO3gy-8">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=宋体;" parent="1" target="-yKBGy9N0OV-hrJUO3gy-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="374" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-7" value="是否充值成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-7" value="是否充值成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="300" y="273" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-8" value="显示充值成功" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-8" value="显示充值成功" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="340" y="414" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.945;exitY=0.433;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-yKBGy9N0OV-hrJUO3gy-10">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.945;exitY=0.433;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-yKBGy9N0OV-hrJUO3gy-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="160" as="targetPoint" />
             <Array as="points">
@@ -1616,30 +1616,30 @@
             <mxPoint x="570" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-10" value="提示充值失败" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-10" value="提示充值失败" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="457" y="414" width="109" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.594;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=宋体;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-yKBGy9N0OV-hrJUO3gy-7">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.594;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=宋体;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-yKBGy9N0OV-hrJUO3gy-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="324" as="sourcePoint" />
             <mxPoint x="513.7460000000001" y="417" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=宋体;" edge="1" parent="1" source="-yKBGy9N0OV-hrJUO3gy-8">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=宋体;" parent="1" source="-yKBGy9N0OV-hrJUO3gy-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="514" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-13" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Y&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-13" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Y&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="373" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-yKBGy9N0OV-hrJUO3gy-14" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;N&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-yKBGy9N0OV-hrJUO3gy-14" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;N&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="333" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NrD8AqC6OzWaqLbxRYfD-1" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="NrD8AqC6OzWaqLbxRYfD-1" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="340" y="515" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NrD8AqC6OzWaqLbxRYfD-2" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;开始&lt;/span&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="NrD8AqC6OzWaqLbxRYfD-2" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;开始&lt;/span&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="340" y="80" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
