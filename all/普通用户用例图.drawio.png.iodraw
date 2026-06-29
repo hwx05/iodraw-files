@@ -1606,6 +1606,11 @@
         <mxCell id="-yKBGy9N0OV-hrJUO3gy-8" value="显示充值成功" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="340" y="442" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MPiJhXwZGQemv8on__1L-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-yKBGy9N0OV-hrJUO3gy-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-yKBGy9N0OV-hrJUO3gy-10" value="提示充值失败" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="470" y="250" width="109" height="60" as="geometry" />
         </mxCell>
