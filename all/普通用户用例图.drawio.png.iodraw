@@ -1972,10 +1972,10 @@
           <mxGeometry x="139" y="355" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="226" y="264" width="120" height="40" as="geometry" />
+          <mxGeometry x="226" y="273" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="337" y="244" width="120" height="40" as="geometry" />
+          <mxGeometry x="337" y="255" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;手机号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="433" y="287" width="120" height="38" as="geometry" />
@@ -1987,7 +1987,7 @@
           <mxGeometry x="547" y="355" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-8" value="头像" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="170" y="310" width="120" height="43" as="geometry" />
+          <mxGeometry x="170" y="311" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-10" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Vo6mgpv7gtNXVdrlKXkS-2" target="Vo6mgpv7gtNXVdrlKXkS-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
