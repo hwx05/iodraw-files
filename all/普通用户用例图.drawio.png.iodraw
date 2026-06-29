@@ -1965,7 +1965,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Vo6mgpv7gtNXVdrlKXkS-1" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;粉丝团团长&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Vo6mgpv7gtNXVdrlKXkS-1" value="粉丝团团长" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="346" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;u&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;用户&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;ID&lt;/font&gt;&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
@@ -1975,7 +1975,7 @@
           <mxGeometry x="226" y="273" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="337" y="255" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="255" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;手机号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="433" y="287" width="120" height="38" as="geometry" />
