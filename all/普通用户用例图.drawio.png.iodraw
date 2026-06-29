@@ -1094,7 +1094,7 @@
           <mxGeometry x="600" y="150" width="100" height="250" as="geometry" />
         </mxCell>
         <mxCell id="WFoEZ60R2A5rCNE6JAYB-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" parent="WFoEZ60R2A5rCNE6JAYB-3" vertex="1">
-          <mxGeometry x="50" y="100" width="10" height="30" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WFoEZ60R2A5rCNE6JAYB-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" parent="WFoEZ60R2A5rCNE6JAYB-3" vertex="1">
           <mxGeometry x="50" y="165" width="10" height="34" as="geometry" />
