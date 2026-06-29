@@ -854,7 +854,7 @@
         <mxCell id="Grr9_adNslwBC0MvHEH9-20" value="7.登录成功跳转" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=宋体;fontSize=16;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="554" as="sourcePoint" />
-            <mxPoint x="129.5" y="554" as="targetPoint" />
+            <mxPoint x="130" y="554" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
