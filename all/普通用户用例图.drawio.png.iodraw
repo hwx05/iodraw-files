@@ -1978,10 +1978,10 @@
           <mxGeometry x="339" y="227" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;手机号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="433" y="254" width="120" height="50" as="geometry" />
+          <mxGeometry x="433" y="268" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;邮箱&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="510" y="305" width="120" height="50" as="geometry" />
+          <mxGeometry x="510" y="310" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Vo6mgpv7gtNXVdrlKXkS-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;昵称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="520" y="357" width="120" height="40" as="geometry" />
