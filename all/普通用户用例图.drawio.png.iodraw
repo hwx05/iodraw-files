@@ -1672,7 +1672,7 @@
         <mxCell id="hxW-QWBfVTknMjkGc7D4-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" parent="hxW-QWBfVTknMjkGc7D4-6" vertex="1">
           <mxGeometry x="50" y="91" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hxW-QWBfVTknMjkGc7D4-8" value="1.编写帖子内容" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;" parent="1" edge="1">
+        <mxCell id="hxW-QWBfVTknMjkGc7D4-8" value="1.编写帖子内容" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=宋体;fontSize=16;startFill=0;exitX=0.547;exitY=0.428;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="hxW-QWBfVTknMjkGc7D4-1">
           <mxGeometry x="-0.0026" relative="1" as="geometry">
             <mxPoint x="90" y="290" as="sourcePoint" />
             <mxPoint as="offset" />
