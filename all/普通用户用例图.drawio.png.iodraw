@@ -1231,7 +1231,7 @@
           <mxGeometry x="40" y="230" width="100" height="250" as="geometry" />
         </mxCell>
         <mxCell id="8O_qeduZFrw6dFwbUkub-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="T1uXYbyR3ekCASk_cQVo-1">
-          <mxGeometry x="45" y="69" width="10" height="151" as="geometry" />
+          <mxGeometry x="45" y="69" width="10" height="161" as="geometry" />
         </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-2" value="&lt;u&gt;:演唱会首页&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="230" y="230" width="100" height="250" as="geometry" />
@@ -1249,7 +1249,7 @@
           <mxGeometry x="553" y="230" width="100" height="250" as="geometry" />
         </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" parent="T1uXYbyR3ekCASk_cQVo-4" vertex="1">
-          <mxGeometry x="50" y="89" width="10" height="40" as="geometry" />
+          <mxGeometry x="46" y="89" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T1uXYbyR3ekCASk_cQVo-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=宋体;fontSize=16;" parent="T1uXYbyR3ekCASk_cQVo-4" vertex="1">
           <mxGeometry x="46" y="153" width="10" height="38" as="geometry" />
